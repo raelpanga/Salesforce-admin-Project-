@@ -20,7 +20,7 @@ Geno Formal Affair uses this org to manage customers, rentals, pricing, and disc
 
 - **Security Model	Role Hierarchy** (CEO → Manager → Sales → Marketing → Support). OWD: Account = Private; Rentals = Controlled by Parent; Products = Read Only. Sharing Rules grant read access to Marketing and Customer Service.
 
--[**Reporting & Dashboards**](https://github.com/raelpanga/Salesforce-admin-Project-/blob/main/Reports%20and%20Dashbord%20.pdf) Five custom reports (Past Due, Ready for Pickup, Returned Rentals, Placed Orders, Most Rented Style) and one consolidated Rental Operations Dashboard.
+-**Reporting & Dashboards** Five custom reports (Past Due, Ready for Pickup, Returned Rentals, Placed Orders, Most Rented Style) and one consolidated Rental Operations Dashboard.
 
 - **Profiles & Permissions**	Custom profiles for CEO, Manager, Sales, Marketing, and Customer Service. Used Permission Sets for targeted access to reports and admin features.
 
